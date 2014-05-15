@@ -1,30 +1,30 @@
 ##These are tools & resources I use which range between really cool in theory to indispensable.
 I will be adding to and updating these when I can.
 
-##Writing Tools & Guides
+###Writing Tools & Guides
 * [CodePen](http://codepen.io)
 * [Code Guide](http://codeguide.co/)
 * [Atom](http://atom.io)
 
-##SVG Thingy
+###SVG Thingy
 * [Snap SVG](http://snapsvg.io)
 
-##Things that make me look really smart to my clients
+###Things that make me look really smart to my clients
 * [Skeuocard](http://kenkeiter.com/skeuocard/)
 
-##Deployment
+###Deployment
 * [Rocketeer](http://rocketeer.autopergamene.eu/ "To be fair, I haven't quite gotten this to work yet. But it looks cool.")
 * [Capistrano](http://capistranorb.com/)
 
-##Continuous Integration Stuffs
+###Continuous Integration Stuffs
 * [Magnum CI](http://magnum-ci.com "For Private Repos")
 * [Travis CI](http://travis-ci.com "For Public Repos")
 
-##Office communication & organization
+###Office communication & organization
 * [Teamwork](https://www.teamwork.com/)
 * [Slack](https://slack.com/)
 
-##Design Challenges
+###Design Challenges
 * [Method of Action](http://method.ac/)
 
 ###From those terrific Twitter (mostly) folks
