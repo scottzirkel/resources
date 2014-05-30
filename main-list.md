@@ -20,6 +20,9 @@ I will be adding to and updating these when I can.
 * [Magnum CI](http://magnum-ci.com "For Private Repos")
 * [Travis CI](http://travis-ci.com "For Public Repos")
 
+###Testing & QA
+* [BroswerStack](http://www.browserstack.com/)
+
 ###Office communication & organization
 * [Teamwork](https://www.teamwork.com/)
 * [Slack](https://slack.com/)
