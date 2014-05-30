@@ -34,3 +34,11 @@ I will be adding to and updating these when I can.
 * [Mustache](http://mustache.github.io/)
 * [Ender](https://github.com/ender-js/Ender)
 * [Code Guide](http://codeguide.co/)
+
+###Front-End Development News
+* [CSS Weekly](http://css-weekly.com/)
+* [HTML5 Weekly](http://html5weekly.com/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [Web Design Weekly](http://web-design-weekly.com/)
+* [Responsive Design Weekly](http://responsivedesignweekly.com/)
+* [Sidebar.io](http://sidebar.io/)
