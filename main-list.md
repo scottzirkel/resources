@@ -11,13 +11,14 @@ I will be adding to and updating these when I can.
 
 ###Things that make me look really smart to my clients
 * [Skeuocard](http://kenkeiter.com/skeuocard/)
+* [One Page Scroll](https://github.com/peachananr/onepage-scroll)
 
 ###Deployment
-* [Rocketeer](http://rocketeer.autopergamene.eu/ "To be fair, I haven't quite gotten this to work yet. But it looks cool.")
+* [Rocketeer](http://rocketeer.autopergamene.eu/)
 * [Capistrano](http://capistranorb.com/)
 
 ###Continuous Integration Stuffs
-* [Magnum CI](http://magnum-ci.com "For Private Repos")
+* [Magnum CI](http://magnum-ci.com "For Private Repos - OK, not using ATM due to lack of PHP 5.4+ support")
 * [Travis CI](http://travis-ci.com "For Public Repos")
 
 ###Testing & QA
