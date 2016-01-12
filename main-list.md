@@ -25,7 +25,7 @@ I will be adding to and updating these when I can.
 * [BroswerStack](http://www.browserstack.com/)
 
 ###Office communication & organization
-* [Teamwork](https://www.teamwork.com/)
+* [Active Collab](https://www.activecollab.com/)
 * [Slack](https://slack.com/)
 
 ###Design Challenges
